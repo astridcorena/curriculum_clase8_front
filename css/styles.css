@@ -1,0 +1,67 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+@font-face {
+    font-family: miFuente;
+    src: url(../fonts/glamy_sunrise/glamy.ttf);
+}
+
+*/
+
+header {
+    background-image: url(../img/5566879.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+.sobmi {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding-top: 100px;
+    text-decoration: none;
+    color: #605c5c ;
+    font-size: 30px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+img {
+    margin: auto;
+    display: block;
+    height: 200px;
+    width: 180px;
+    border-radius: 100px;
+}
+
+h1 { 
+    color : #605c5c; 
+    background-color: #FFC040;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 15px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-top: -20px;
+    }
+
+h2 {
+    color : #605c5c; 
+    background-color: #FFC040;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 8px;
+}
+
+i {
+    margin: 8px;
+}
+
+footer {
+    background-origin: padding-box;
+    color: #FFC040; 
+    background-color: #605c5c;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+
+.dates {
+    text-indent: 76px;
+}
+
